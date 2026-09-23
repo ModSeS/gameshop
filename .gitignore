@@ -9,3 +9,4 @@ Thumbs.db
 /database/*
 !/database/schema.sql
 !/database/README.md
+# Local settings and private database exports stay out of version control.
